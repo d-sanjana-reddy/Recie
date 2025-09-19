@@ -25,7 +25,7 @@ An interactive web app that helps you discover recipes based on the ingredients 
 ---
 
 ## Demo Preview
-
+![images](https://github.com/d-sanjana-reddy/RecipeFinder_IBMxEdunet/tree/main/ScreenShots)
 
 
 ---
